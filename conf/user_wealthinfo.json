@@ -1,0 +1,1 @@
+{"params":{"user_id":{"name":"user_id","primary_key":1,"unique_index":null,"sparse_index":null,"share_key":1,"reference_key":null},"cost":{"name":"cost","primary_key":null,"unique_index":null,"sparse_index":2,"share_key":null,"reference_key":null},"coin":{"name":"coin","primary_key":null,"unique_index":null,"sparse_index":null,"share_key":null,"reference_key":null}}}
